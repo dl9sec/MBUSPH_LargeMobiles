@@ -1,5 +1,5 @@
 # "MB Universal Smartphone Holder" replacement parts for large mobiles
-The "MB Universal Smartphone Holder" (Part Number A2228206401) isn't suitable for todays smartphone sizes. Here are two replacement parts which allows to clamp bigger size smartphones (up to 6.4", tested with a Galaxy S23FE including bumper case) and get again a better mobile connection.
+The "MB Universal Smartphone Holder" (Part Number A2228206401) isn't suitable for todays smartphone sizes. Here are two replacement parts which allows to clamp bigger size smartphones (up to 6.4", tested with a Galaxy S23FE including bumper case) and get again a dedicated place for the mobile.
 
 <img src="images/MBUSPH_Original_vs_New.jpg" alt="J Pole antenna" width="40%" height="40%">
 <img src="images/MBUSPH_New_Rear_view.jpg" alt="J Pole antenna" width="40%" height="40%">
